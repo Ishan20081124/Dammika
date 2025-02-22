@@ -37,7 +37,7 @@ function convertToBool(text, fault = 'true') {
 
 module.exports = {
   //  සෙසන් අයිඩී එක දාන්න👇👇👇 (උඩු කොමා දෙක ඇතුලේ)
-  SESSION_ID: process.env.SESSION_ID || "", 
+  SESSION_ID: process.env.SESSION_ID || "Golden-Queen-MD-8sYxHLJD#z-Kn_ek39W31f_R5WyKaxHvgD_rujXTPJhOO_HQMiPoftrc", 
 
 //  Mongodp URl එක දාන්න 👇👇👇 (උඩු කොමා දෙක ඇතුලේ )
   MONGODB: process.env.MONGODB || "",
